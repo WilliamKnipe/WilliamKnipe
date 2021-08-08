@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: he/him
+- :house: Software engineer based in London
+- :coffee: Interested in performant and accessible web
+- 🌱 I’m currently learning Svelte
+- 💬 Website [here](https://knipe.dev)
+- 📫 How to reach me: <william.knipe@googlemail.com>
