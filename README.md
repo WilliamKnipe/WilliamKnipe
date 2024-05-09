@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: he/him
 - :house: Software engineer based in London
-- :coffee: Interested in performant and robust solutions
+- :coffee: Coffee addiction
 - 🌱 I’m currently diving more into Go
 - 💬 Website [here](https://knipe.dev)
 - 📫 How to reach me: <william.knipe@googlemail.com>
