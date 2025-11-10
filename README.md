@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 - :house: Software engineer based in London
 - :coffee: Coffee addiction
 - 🌱 I’m currently diving more into Go
-- 💬 Website [here](https://knipe.dev)
 - 📫 How to reach me: <william.knipe@googlemail.com>
